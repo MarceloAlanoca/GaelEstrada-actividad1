@@ -6,7 +6,7 @@ namespace Punto4
     {
         static void Main(string[] args)
         {
-            // Promedio de edades turno mañana, tarde y noche.
+            //Promedio de edades turno mañana, tarde y noche.
 
             int sumaManana = 0;
             int sumaTarde = 0;
